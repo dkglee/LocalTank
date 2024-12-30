@@ -14,7 +14,8 @@ public class MyProject : ModuleRules
 
 		PublicIncludePaths.AddRange(new string[]
 		{
-			"MyProject/deulee/Public"	
+			"MyProject/deulee/Public",
+			"MyProject/Private/HaHa"
 		});
 
 		// Uncomment if you are using Slate UI
